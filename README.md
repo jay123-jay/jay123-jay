@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jay Kshirsagar</h1>
 
-<!--
-**jay123-jay/jay123-jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Aspiring Full Stack Developer 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Skills
+- Java
+- Python
+- HTML, CSS, JavaScript
+- SQL
+
+---
+
+## 📫 Contact
+- LinkedIn: your-link
