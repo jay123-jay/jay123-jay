@@ -1,21 +1,6 @@
-<h1 align="center">Hi👋, I'm Jay Kshirsagar</h1>
-
 <p align="center">
-Aspiring Software Engineer with a strong foundation in Java and Object-Oriented Programming, exploring DevOps 🚀
-</p>
-
----
-
-## 🧑‍💻 Skills
-- Java
-- DevOps(AWS, Git, Linux)
-- HTML,CSS
-- SQL
-- SDLC
-
----
-
-## 📫 Contact<h1 align="center">Hi 👋, I'm Jay Kshirsagar</h1>
+  <img src="" />
+</p>📫 Contact<h1 align="center">Hi 👋, I'm Jay Kshirsagar</h1>
 
 <p align="center">
 Aspiring Software Engineer 🚀 | Java | OOP | DevOps Enthusiast
@@ -23,49 +8,49 @@ Aspiring Software Engineer 🚀 | Java | OOP | DevOps Enthusiast
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **Full Stack Development**
+🚀 About Me
+- 🌱 Currently I'm Pursuing My B.E in Computer Science & Engineering
 - 💻 Strong foundation in **Java & Object-Oriented Programming**
 - ⚙️ Exploring **DevOps & Cloud**
-- 🎯 Goal: Become a **Software Engineer / Full Stack Developer**
 
 ---
 
-## 🧑‍💻 Skills & Technologies
+🧑‍💻 Skills & Technologies
 
-### 💻 Languages
+💻 Languages
 - Java
 - Python
 - JavaScript
 
-### 🌐 Web Development
+🌐 Web Development
 - HTML, CSS
-- React (learning)
+- React 
 
-### ⚙️ Tools & Technologies
+⚙️ Tools & Technologies
 - Git & GitHub
-- Docker (learning)
+- AWS
+- Docker
 - Linux basics
 
 ---
 
-## 📂 Projects
-- 🔹 Add your project here (example: Task Manager App)
-- 🔹 Add GitHub repo links
-- 🔹 Add live demo (if available)
+📂 Projects
+
 
 ---
+
+📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=anivisVector&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jay123-jay&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=jay123-jayr&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay123-jay&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: (add your link)
-- Email: (optional)
-
----
-
+📫 Connect With Me
 - LinkedIn:  www.linkedin.com/in/jay-kshirsagar-59702625b
+- Email: kshirsagarjay099@gmail.com
