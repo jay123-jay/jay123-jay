@@ -1,6 +1,6 @@
 <p align="center">
   <img src="bani.jpeg" />
-</p>📫 Contact<h1 align="center">Hi 👋, I'm Jay Kshirsagar</h1>
+<h1 align="center">Hi 👋, I'm Jay Kshirsagar</h1>
 
 <p align="center">
 Aspiring Software Engineer 🚀 | Java | OOP | DevOps Enthusiast
