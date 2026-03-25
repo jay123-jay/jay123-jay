@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bani.jpeg" />
+  <img src="BJ1.jpeg" />
 <h1 align="center">Hi 👋, I'm Jay Kshirsagar</h1>
 
 <p align="center">
