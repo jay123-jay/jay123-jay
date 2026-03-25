@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ban.png" />
+  <img src="bani.jpeg" />
 </p>📫 Contact<h1 align="center">Hi 👋, I'm Jay Kshirsagar</h1>
 
 <p align="center">
