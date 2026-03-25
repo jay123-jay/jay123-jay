@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Jay Kshirsagar</h1>
 
 <p align="center">
-Aspiring Software Engineer | Java & OOP | DevOps 🚀
+Aspiring Software Engineer with a strong foundation in Java and Object-Oriented Programming, exploring DevOps 🚀
 </p>
 
 ---
