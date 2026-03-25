@@ -52,7 +52,7 @@ Aspiring Software Engineer 🚀 | Java | OOP | DevOps Enthusiast
 
 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-kshirsagar-59702625b/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](kshirsagarjay099@gmail.com)
+- Email:- kshirsagarjay099@gmail.com
 - Bengaluru | Karnataka
 
   <p align="left" style="white-space: nowrap;">
