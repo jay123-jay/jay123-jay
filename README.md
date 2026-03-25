@@ -1,18 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jay Kshirsagar</h1>
+<h1 align="center">Hi👋, I'm Jay Kshirsagar</h1>
 
 <p align="center">
-Aspiring Full Stack Developer 🚀
+Aspiring Software Engineer | Java & OOP | DevOps 🚀
 </p>
 
 ---
 
 ## 🧑‍💻 Skills
 - Java
-- Python
-- HTML, CSS, JavaScript
+- DevOps(AWS, Git, Linux)
+- HTML,CSS
 - SQL
+- SDLC
 
 ---
 
 ## 📫 Contact
-- LinkedIn: your-link
+- LinkedIn:  www.linkedin.com/in/jay-kshirsagar-59702625b
