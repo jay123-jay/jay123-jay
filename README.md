@@ -63,6 +63,8 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/jay123-jay/jay123-jay/output/github-contribution-grid-snake.svg" />
+
 ## 🏆 Trophies
 
 <p align="center">
