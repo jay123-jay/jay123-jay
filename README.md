@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="BJ1.jpeg" width="300" style="border-radius:50%;" />
+  <img src="BJ1.jpeg" width="500" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Jay Kshirsagar</h1>
