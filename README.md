@@ -34,7 +34,7 @@
 ### ⚙️ Tools & Technologies
 `Git` `GitHub` `AWS` `Docker` `Linux`
 
-<p align="left" style="white-space: nowrap;"> 
+<p align="center" style="white-space: nowrap;"> 
 <a href="https://aws.amazon.com">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30"/></a> 
 <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/></a> 
