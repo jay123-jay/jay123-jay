@@ -78,13 +78,12 @@
 ---
 
 ## 📂 Projects
-> Add your best projects here (with links & descriptions)
+
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
   <a href="https://www.linkedin.com/in/jay-kshirsagar-59702625b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
   </a>
