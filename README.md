@@ -34,8 +34,32 @@
 ### ⚙️ Tools & Technologies
 `Git` `GitHub` `AWS` `Docker` `Linux`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,git,github,docker,aws,linux" />
+<p align="left" style="white-space: nowrap;"> 
+<a href="https://aws.amazon.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30"/></a> 
+<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/></a> 
+<a href="https://cloud.google.com">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30"/></a> 
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/></a> 
+<a href="https://www.w3.org/html/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30"/></a> <a href="https://www.java.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/></a> 
+<a href="https://kubernetes.io/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="30"/></a> 
+<a href="https://www.jenkins.io/">
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="30"/></a> 
+<a href="https://www.selenium.dev/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="30"/></a> 
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/></a> 
+<a href="https://opencv.org/">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="30"/></a> 
+<a href="https://www.oracle.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="30"/></a> 
+<a href="https://pandas.pydata.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30"/></a> 
+<a href="https://www.python.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/></a> 
 </p>
 
 ---
